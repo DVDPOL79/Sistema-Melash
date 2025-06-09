@@ -1,0 +1,436 @@
+/*============================
+BACKGROUND
+=============================*/
+
+.bg-primary{
+	background: rgba(108, 95, 252, 1) !important;
+	color: #fff !important;
+} 
+
+.bg-secondary{
+	background: rgba(5, 195, 251, 1) !important;
+	color: #fff !important;
+}
+
+.bg-warning{
+	background: rgba(247, 183, 49, 1) !important;
+	color: #FFF !important;
+} 
+
+.bg-info{
+	background: rgba(17, 112, 228, 1) !important;
+	color: #FFF !important;
+} 
+
+.bg-success{
+	background: rgba(9, 173, 149, 1) !important;
+	color: #FFF !important;
+} 
+
+.bg-danger{
+	background: rgba(232, 38, 70, 1) !important;
+	color: #FFF;
+} 
+
+.bg-light{
+	background: rgba(246, 246, 251, 1) !important;
+	color: rgb(52, 58, 64) !important;
+} 
+
+.bg-dark{
+	background:rgba(52, 58, 64, 1) !important;
+	color: #FFF !important;
+} 
+
+.bg-blue{
+	background: rgba(43, 62, 101, 1) !important;
+	color: #FFF !important;
+} 
+
+.bg-indigo{
+	background: rgba(77, 93, 219, 1) !important;
+	color: #FFF !important;
+} 
+
+.bg-purple{
+	background: rgba(137, 39, 236, 1) !important;
+	color: #FFF !important;
+}
+
+.bg-pink{
+	background: rgba(236, 130, 239, 1) !important;
+	color: #FFF !important;
+} 
+
+.bg-red{
+	background: rgba(208, 61, 70, 1) !important;
+	color: #FFF !important;
+} 
+
+.bg-maroon{
+	background: rgba(128, 0, 0, 1) !important;
+	color: #FFF !important;
+}
+
+.bg-orange{
+	background: rgba(252, 115, 3, 1) !important;
+	color: #FFF !important;
+} 
+
+.bg-yellow{
+background: rgba(255, 193, 2, 1) !important;
+color:#FFF !important;
+} 
+
+.bg-green{
+	background: rgba(29, 216, 113, 1) !important;
+	color: #FFF;
+} 
+
+.bg-teal{
+	background: rgba(28, 175, 159, 1) !important;
+	color: #FFF !important;
+} 
+
+.bg-cyan{
+	background: rgba(0, 209, 209, 1) !important;
+	color: #FFF !important;
+} 
+
+.bg-gray{
+	background: rgba(134, 153, 163, 1) !important;
+	color: #FFF !important;
+} 
+
+/*============================
+TEXT
+=============================*/
+
+.text-primary{
+	color: rgba(108, 95, 252, 1) !important;
+} 
+
+.text-secondary{
+	color: rgba(5, 195, 251, 1) !important;
+}
+
+.text-warning{
+	color: rgba(247, 183, 49, 1) !important;
+} 
+
+.text-info{
+	color: rgba(17, 112, 228, 1) !important;
+} 
+
+.text-success{
+	color: rgba(9, 173, 149, 1) !important;
+} 
+
+.text-danger{
+	color: rgba(232, 38, 70, 1) !important;
+} 
+
+.text-light{
+	color: rgba(246, 246, 251, 1) !important;
+} 
+
+.text-dark{
+	color:rgba(52, 58, 64, 1) !important;
+} 
+
+.text-blue{
+	color: rgba(43, 62, 101, 1) !important;
+} 
+
+.text-indigo{
+	color: rgba(77, 93, 219, 1) !important;
+} 
+
+.text-purple{
+	color: rgba(137, 39, 236, 1) !important;
+}
+
+.text-pink{
+	color: rgba(236, 130, 239, 1) !important;
+} 
+
+.text-red{
+	color: rgba(208, 61, 70, 1) !important;
+} 
+
+.text-maroon{
+	color: rgba(128, 0, 0, 1) !important;
+}
+
+.text-orange{
+	color: rgba(252, 115, 3, 1) !important;
+} 
+
+.text-yellow{
+	color: rgba(255, 193, 2, 1) !important;
+} 
+
+.text-green{
+	color: rgba(29, 216, 113, 1) !important;
+} 
+
+.text-teal{
+	color: rgba(28, 175, 159, 1) !important;
+} 
+
+.text-cyan{
+	color: rgba(0, 209, 209, 1) !important;
+} 
+
+.text-gray{
+	color: rgba(134, 153, 163, 1) !important;
+} 
+
+/*============================
+BACKGROUND TRANSPARENTE
+=============================*/
+
+.bg-transparent-primary{
+	background: rgba(108, 95, 252, .15) !important;
+	color: rgba(108, 95, 252, 1) !important;
+	border: 1px solid rgba(108, 95, 252, 1) !important;
+} 
+
+.bg-transparent-secondary{
+	background: rgba(5, 195, 251, .15) !important;
+	color: rgba(5, 195, 251, 1) !important;
+	border: 1px solid rgba(5, 195, 251, 1) !important;
+}
+
+.bg-transparent-warning{
+	background: rgba(247, 183, 49, .15) !important;
+	color: rgba(247, 183, 49, 1) !important;
+	border: 1px solid rgba(247, 183, 49, 1) !important;
+} 
+
+.bg-transparent-info{
+	background: rgba(17, 112, 228, .15) !important;
+	color: rgba(17, 112, 228, 1) !important;
+	border: 1px solid rgba(17, 112, 228, 1) !important;
+} 
+
+.bg-transparent-success{
+	background: rgba(9, 173, 149, .15) !important;
+	color: rgba(9, 173, 149, 1) !important;
+	border: 1px solid rgba(9, 173, 149, 1) !important;
+} 
+
+.bg-transparent-danger{
+	background: rgba(232, 38, 70, .15) !important;
+	color: rgba(232, 38, 70, 1) !important;
+	border: 1px solid rgba(232, 38, 70, 1) !important;
+} 
+
+.bg-transparent-light{
+	background: rgba(246, 246, 251, .15) !important;
+	color: rgba(246, 246, 251, 1) !important;
+	border: 1px solid rgba(246, 246, 251, 1) !important;
+} 
+
+.bg-transparent-dark{
+	background: rgba(52, 58, 64, .15) !important;
+	color: rgba(52, 58, 64, 1) !important;
+	border: 1px solid rgba(52, 58, 64, 1) !important;
+} 
+
+.bg-transparent-blue{
+	background: rgba(43, 62, 101, .15) !important;
+	color: rgba(43, 62, 101, 1) !important;
+	border: 1px solid rgba(43, 62, 101, 1) !important;
+} 
+
+.bg-transparent-indigo{
+	background: rgba(77, 93, 219, .15) !important;
+	color: rgba(77, 93, 219, 1) !important;
+	border: 1px solid rgba(77, 93, 219, 1) !important;
+}
+
+.bg-transparent-purple{
+	background: rgba(137, 39, 236, .15) !important;
+	color: rgba(137, 39, 236, 1) !important;
+	border: 1px solid rgba(137, 39, 236, 1) !important;
+}
+
+.bg-transparent-pink{
+	background: rgba(236, 130, 239, .15) !important;
+	color: rgba(236, 130, 239, 1) !important;
+	border: 1px solid rgba(236, 130, 239, 1) !important;
+} 
+
+.bg-transparent-red{
+	background: rgba(208, 61, 70, .15) !important;
+	color: rgba(208, 61, 70, 1) !important;
+	border: 1px solid rgba(208, 61, 70, 1) !important;
+} 
+
+.bg-transparent-maroon{
+	background: rgba(128, 0, 0, .15) !important;
+	color: rgba(128, 0, 0, 1) !important;
+	border: 1px solid rgba(128, 0, 0, 1) !important;
+}
+
+.bg-transparent-orange{
+	background: rgba(252, 115, 3, .15) !important;
+	color: rgba(252, 115, 3, 1) !important;
+	border: 1px solid rgba(252, 115, 3, 1) !important;
+} 
+
+.bg-transparent-yellow{
+	background: rgba(255, 193, 2, .15) !important;
+	color: rgba(255, 193, 2, 1) !important;
+	border: 1px solid rgba(255, 193, 2, 1) !important;
+} 
+
+.bg-transparent-green{
+	background: rgba(29, 216, 113, .15) !important;
+	color: rgba(29, 216, 113, 1) !important;
+	border: 1px solid rgba(29, 216, 113, 1) !important;
+} 
+
+.bg-transparent-teal{
+	background: rgba(28, 175, 159, .15) !important;
+	color: rgba(28, 175, 159, 1) !important;
+	border: 1px solid rgba(28, 175, 159, 1) !important;
+} 
+
+.bg-transparent-cyan{
+	background: rgba(0, 209, 209, .15) !important;
+	color: rgba(0, 209, 209, 1) !important;
+	border: 1px solid rgba(0, 209, 209, 1) !important;
+} 
+
+.bg-transparent-gray{
+	background: rgba(134, 153, 163, .15) !important;
+	color: rgba(134, 153, 163, 1) !important;
+	border: 1px solid rgba(134, 153, 163, 1) !important;
+} 
+
+/*============================
+TEXTO TRANSPARENTE
+=============================*/
+
+.text-transparent-primary{
+	background: transparent !important;
+	color: rgba(108, 95, 252, 1) !important;
+	border: 1px solid rgba(108, 95, 252, 1) !important;
+} 
+
+.text-transparent-secondary{
+	background: transparent !important;
+	color: rgba(5, 195, 251, 1) !important;
+	border: 1px solid rgba(5, 195, 251, 1) !important;
+}
+
+.text-transparent-warning{
+	background: transparent !important;
+	color: rgba(247, 183, 49, 1) !important;
+	border: 1px solid rgba(247, 183, 49, 1) !important;
+} 
+
+.text-transparent-info{
+	background: transparent !important;
+	color: rgba(17, 112, 228, 1) !important;
+	border: 1px solid rgba(17, 112, 228, 1) !important;
+} 
+
+.text-transparent-success{
+	background: transparent !important;
+	color: rgba(9, 173, 149, 1) !important;
+	border: 1px solid rgba(9, 173, 149, 1) !important;
+} 
+
+.text-transparent-danger{
+	background: transparent !important;
+	color: rgba(232, 38, 70, 1) !important;
+	border: 1px solid rgba(232, 38, 70, 1) !important;
+} 
+
+.text-transparent-light{
+	background: transparent !important;
+	color: rgba(246, 246, 251, 1) !important;
+	border: 1px solid rgba(246, 246, 251, 1) !important;
+} 
+
+.text-transparent-dark{
+	background: transparent !important;
+	color: rgba(52, 58, 64, 1) !important;
+	border: 1px solid rgba(52, 58, 64, 1) !important;
+} 
+
+.text-transparent-blue{
+	background: transparent !important;
+	color: rgba(43, 62, 101, 1) !important;
+	border: 1px solid rgba(43, 62, 101, 1) !important;
+} 
+
+.text-transparent-indigo{
+	background: transparent !important;
+	color: rgba(77, 93, 219, 1) !important;
+	border: 1px solid rgba(77, 93, 219, 1) !important;
+}
+
+.text-transparent-purple{
+	background: transparent !important;
+	color: rgba(137, 39, 236, 1) !important;
+	border: 1px solid rgba(137, 39, 236, 1) !important;
+}
+
+.text-transparent-pink{
+	background: transparent !important;
+	color: rgba(236, 130, 239, 1) !important;
+	border: 1px solid rgba(236, 130, 239, 1) !important;
+} 
+
+.text-transparent-red{
+	background: transparent !important;
+	color: rgba(208, 61, 70, 1) !important;
+	border: 1px solid rgba(208, 61, 70, 1) !important;
+}
+
+.text-transparent-maroon{
+	background: transparent !important;
+	color: rgba(128, 0, 0, 1) !important;
+	border: 1px solid rgba(128, 0, 0, 1) !important;
+} 
+
+.text-transparent-orange{
+	background: transparent !important;
+	color: rgba(252, 115, 3, 1) !important;
+	border: 1px solid rgba(252, 115, 3, 1) !important;
+} 
+
+.text-transparent-yellow{
+	background: transparent !important;
+	color: rgba(255, 193, 2, 1) !important;
+	border: 1px solid rgba(255, 193, 2, 1) !important;
+} 
+
+.text-transparent-green{
+	background: transparent !important;
+	color: rgba(29, 216, 113, 1) !important;
+	border: 1px solid rgba(29, 216, 113, 1) !important;
+} 
+
+.text-transparent-teal{
+	background: transparent !important;
+	color: rgba(28, 175, 159, 1) !important;
+	border: 1px solid rgba(28, 175, 159, 1) !important;
+} 
+
+.text-transparent-cyan{
+	background: transparent !important;
+	color: rgba(0, 209, 209, 1) !important;
+	border: 1px solid rgba(0, 209, 209, 1) !important;
+} 
+
+.text-transparent-gray{
+	background: transparent !important;
+	color: rgba(134, 153, 163, 1) !important;
+	border: 1px solid rgba(134, 153, 163, 1) !important;
+} 
+
